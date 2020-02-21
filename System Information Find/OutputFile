@@ -1,0 +1,65 @@
+.... CPU Info OS ...
+Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+...System information...
+System:Windows
+Node Name:DESKTOP-BU1PSC0
+Release:10
+Version:10.0.18362
+Machine:AMD64
+Processor:Intel64 Family 6 Model 142 Stepping 9, GenuineIntel
+None
+9.77KB
+...Boot Time...
+Boot Time : 2019/11/159:14:15
+None
+...CPU Info....
+Physical cores: 2
+Total cores: 4
+Max Frequncy:2701.00Mhz
+Min Frequncy:0.00Mhz
+Current Frequwncy:1500.00Mhz
+CPU Usage Per Core:
+Core0:100.0%
+Core1:0.0%
+Core2:100.0%
+Core3:100.0%
+Total CPU Usage:80.0%
+None
+... Memory Information...
+Total:7.77GB
+Availabel:3.62GB
+used:4.16GB
+Percentage:53.5%
+... SWAP...
+Total:17.27GB
+Free:10.81GB
+Used:6.47GB
+Percentage:37.4%
+None
+...Disk Information...
+Partitions And Usage:
+===Device:C:\====
+Mountpoint:C:\
+File System type:NTFS
+===Device:D:\====
+Mountpoint:D:\
+File System type:NTFS
+===Device:E:\====
+Mountpoint:E:\
+File System type:NTFS
+===Device:F:\====
+Mountpoint:F:\
+File System type:NTFS
+===Device:G:\====
+Mountpoint:G:\
+File System type:NTFS
+===Device:H:\====
+Mountpoint:H:\
+File System type:
+Total Size:549.00MB
+Used:40.54MB
+Free:508.46MB
+percentage:7.4%
+Total read:119.11GB
+Total write:50.85GB
+None
