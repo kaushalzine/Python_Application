@@ -1,0 +1,13 @@
+Supervised Machine Learning  Case Study  
+Iris Dataset with Decision Tree Plotting 
+• In this application we remove one entry from each label of iris dataset and train with
+the remaining entries.
+• And we apply predictions based on Decision tree with that removed entries.
+• We plot the decision tree using pydot library.
+Consider below characteristics of Machine Learning Application :
+Classifier : Decision Tree
+DataSet : Iris Dataset
+Features : Sepal Width, Sepal Length, Petal Width, Petal Length
+Labels : Versicolor, Setosa , Virginica
+Training Dataset : 147 Entries
+Testing Dataset : 3 Entries
